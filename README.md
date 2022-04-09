@@ -1,2 +1,2 @@
-# logger
-banzi loggeri saurnolisgan
+# banzi loggeri saurnolisgan
+loggeri romelic momavalshi albat damexmareba
